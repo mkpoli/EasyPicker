@@ -1,0 +1,9 @@
+F:\Projects\EasyPicker\EasyPicker\bin\Debug\EasyPicker.exe.config
+F:\Projects\EasyPicker\EasyPicker\bin\Debug\EasyPicker.exe
+F:\Projects\EasyPicker\EasyPicker\bin\Debug\EasyPicker.pdb
+F:\Projects\EasyPicker\EasyPicker\obj\Debug\EasyPicker.csprojResolveAssemblyReference.cache
+F:\Projects\EasyPicker\EasyPicker\obj\Debug\EasyPicker.frmMain.resources
+F:\Projects\EasyPicker\EasyPicker\obj\Debug\EasyPicker.Properties.Resources.resources
+F:\Projects\EasyPicker\EasyPicker\obj\Debug\EasyPicker.csproj.GenerateResource.Cache
+F:\Projects\EasyPicker\EasyPicker\obj\Debug\EasyPicker.exe
+F:\Projects\EasyPicker\EasyPicker\obj\Debug\EasyPicker.pdb

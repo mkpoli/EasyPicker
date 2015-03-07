@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<EasyPicker>
+  <range from="1" to="2" />
+  <students>
+    <student id="1">于拙</student>
+    <student id="2">傻逼</student>
+  </students>
+</EasyPicker>
